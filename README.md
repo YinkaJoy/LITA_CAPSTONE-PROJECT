@@ -49,6 +49,7 @@ select product, sum(total_sale) as Totalsale from [dbo].[SalesData_Capstone]
 group by product;
 ```
    
+### Data Visualization
 
 
 
