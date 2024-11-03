@@ -52,4 +52,8 @@ group by product;
 ### Data Visualization
 
 
+![SALES OVERVIEW 1](https://github.com/user-attachments/assets/03046fd4-e906-48c7-80ec-d0e9ab73f988)
+
+
+![SALES OVERVIEW 2](https://github.com/user-attachments/assets/948e47cc-37ab-4dd2-bce5-1ca59d955f20)
 
