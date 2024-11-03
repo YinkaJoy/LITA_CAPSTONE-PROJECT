@@ -3,6 +3,9 @@ This is where I documented my first project on Data Analysis with the Incubator 
 
 ### Project Title: Deyinuad Ventures Sales Performance Analysis
 
+### Project Outline
+---
+
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
