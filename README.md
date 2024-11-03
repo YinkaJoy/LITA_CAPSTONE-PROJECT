@@ -4,12 +4,15 @@ This is where I documented my first project on Data Analysis with the Incubator 
 ### Project Title: Deyinuad Ventures Sales Performance Analysis
 
 ### Project Overview
+---
 This project aim to analyze sales data to identify trends (such as top-selling products, regional performance, yearly and monthly sales trends), strengths, weaknesses and provide actionable insights to improve sales performance. With respect to the data gathered, I plan to develop recommendations for sales strategy adjustments.
 
 ### Data Sources
+---
 The primary source of Data used is the sales report provided by the sales team.
 
 ### Tools Used
+---
 - Microsoft Excel [Download Here](https://1drv.ms/x/c/aad348901d0848c9/ESF61RwGbDRPsMRtHpPAAg8B4I0nxZayuGCSASdE9G5hhw)
   1. For Data cleaning
   2. For Analysis.
@@ -18,12 +21,14 @@ The primary source of Data used is the sales report provided by the sales team.
 - GitHub for portfolio building.
 
 ### Data Cleaning and Preparation
+---
  In the intial phase when i got the data, I performed the following action;
   1. Data loading and Inspection
   2. Removed duplicates
   3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
+---
  In exploring data for effective analysis, the following questions were asked;
  - What is the total sales for each product category?
  - What is the number of sales transactions in each region?
@@ -34,6 +39,15 @@ The primary source of Data used is the sales report provided by the sales team.
  - What is the percentage of total sales contributed by each region?
  - Which products have no sales in the last quarter?
 
+### Data Analysis
+---
+Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;   
+
+```SQL
+SELECT *FROM [dbo].[SalesData_Capstone]
+select product, sum(total_sale) as Totalsale from [dbo].[SalesData_Capstone]
+group by product;
+```
    
 
 
