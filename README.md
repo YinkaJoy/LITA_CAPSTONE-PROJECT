@@ -79,11 +79,15 @@ group by region;
    
 ### Data Visualization
 
-
 ![SALES OVERVIEW 1](https://github.com/user-attachments/assets/03046fd4-e906-48c7-80ec-d0e9ab73f988)
 
+ 1. Top Selling Products: The store has six different products across four regions. The products include shirts, shoes, hat, socks, jacket and gloves.
+   
+## Insights:
+ - From the total sales of ₦2,101,090 (over 2 million naira) shoes sold more with a total sales of ₦613,380 followed by shirt, hat, gloves, jacket and socks accordingly.
+ - In terms of quantity sold, hat became the most popular product having sold 15,929 quantity.
 
-
+![SALES OVERVIEW2](https://github.com/user-attachments/assets/bd882047-95b2-4e6f-a3e1-8b575f7b43f1)
 
 
 
