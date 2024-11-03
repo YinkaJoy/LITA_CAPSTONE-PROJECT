@@ -3,6 +3,22 @@ This is where I documented my first project on Data Analysis with the Incubator 
 
 ### Project Title: Deyinuad Ventures Sales Performance Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
+
 ### Project Overview
 ---
 This project aim to analyze sales data to identify trends (such as top-selling products, regional performance, yearly and monthly sales trends), strengths, weaknesses and provide actionable insights to improve sales performance. With respect to the data gathered, I plan to develop recommendations for sales strategy adjustments.
@@ -56,4 +72,6 @@ group by product;
 
 
 ![SALES OVERVIEW 2](https://github.com/user-attachments/assets/948e47cc-37ab-4dd2-bce5-1ca59d955f20)
+
+
 
