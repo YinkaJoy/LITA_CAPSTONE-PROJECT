@@ -41,7 +41,7 @@ The primary source of Data used is the sales report provided by the sales team.
 
 ### Data Cleaning and Preparation
 ---
- In the intial phase when i got the data, I performed the following action;
+ In the intial phase when I got the data, I performed the following action;
   1. Data loading and Inspection
   2. Removed duplicates
   3. Data Cleaning and Formatting
@@ -60,12 +60,21 @@ The primary source of Data used is the sales report provided by the sales team.
 
 ### Data Analysis
 ---
-Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;   
+Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;  
+
+ - To retrieve the total sales for each product category;
 
 ```SQL
 SELECT *FROM [dbo].[SalesData_Capstone]
 select product, sum(total_sale) as Totalsale from [dbo].[SalesData_Capstone]
 group by product;
+```
+
+ - To find the number of sales transactions in each region;
+
+```SQL
+SELECT Region,COUNT(OrderID) AS No_of_Salestransaction FROM [dbo].[SalesData_Capstone] 
+group by region;
 ```
    
 ### Data Visualization
@@ -74,7 +83,7 @@ group by product;
 ![SALES OVERVIEW 1](https://github.com/user-attachments/assets/03046fd4-e906-48c7-80ec-d0e9ab73f988)
 
 
-![SALES OVERVIEW 2](https://github.com/user-attachments/assets/948e47cc-37ab-4dd2-bce5-1ca59d955f20)
+
 
 
 
