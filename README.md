@@ -87,6 +87,7 @@ ORDER BY highestsellingproduct DESC
 ```
    
 ### Data Visualization
+---
 
 ![SALES OVERVIEW 1](https://github.com/user-attachments/assets/03046fd4-e906-48c7-80ec-d0e9ab73f988)
 
@@ -111,10 +112,17 @@ ORDER BY highestsellingproduct DESC
 
 ![SALES OVERVIEW2](https://github.com/user-attachments/assets/bd882047-95b2-4e6f-a3e1-8b575f7b43f1)
 
-3. Yearly and monthly trend:
+3. Yearly and monthly trend: This analysis identified a pattern of increased sales the year 2023. The decline in sales for the year 2024 could be due to a number of factors affecting the economy as a whole.
+## Insights: 
+ - The graph below highlights the inconstitency in the trend of sales, showing February as the month with the highest sales and September with the lowest sale per product.
+
+![MONTHLY TREND](https://github.com/user-attachments/assets/300c9510-055e-43d8-b399-31192f9d539a)
+
+ - Based on the analysis I see an upward trend in sales in the first quarter of both year. However, a pattern of decrease in sales can be identify in the second quarter of both year.
+   
+![QUARTERLY SALES](https://github.com/user-attachments/assets/31e092d3-6c09-4925-8fd1-f81811044a6f)
 
 
-
-
+### Recommendations
 
 
