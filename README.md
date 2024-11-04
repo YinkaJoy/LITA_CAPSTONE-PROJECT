@@ -20,6 +20,8 @@ This is where I documented my first project on Data Analysis with the Incubator 
 
 [Data Visualization](#data-visualization)
 
+[Recommendations](recommendations)
+
 
 
 ### Project Overview
@@ -124,5 +126,7 @@ ORDER BY highestsellingproduct DESC
 
 
 ### Recommendations
+---
+
 
 
