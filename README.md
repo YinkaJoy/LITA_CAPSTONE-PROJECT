@@ -20,7 +20,7 @@ This is where I documented my first project on Data Analysis with the Incubator 
 
 [Data Visualization](#data-visualization)
 
-[Recommendations](recommendations)
+[Recommendations](#recommendations)
 
 
 
