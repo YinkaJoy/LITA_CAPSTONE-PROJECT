@@ -49,11 +49,11 @@ The primary source of Data used is the sales report provided by the sales team.
   3. Data Cleaning and Formatting
 
 ### Basic statistics about the dataset:
-Total Sales: ₦2,101,090
-Total unit Price: ₦290,260
-Average Sales: ₦212
-Total Quantity Sold: 68,461 items
-Number of Product Category: 6
+ - Total Sales: ₦2,101,090
+ - Total unit Price: ₦290,260
+ - Average Sales: ₦212
+ - Total Quantity Sold: 68,461 items
+ - Number of Product Category: 6
 
 ### Exploratory Data Analysis
 ---
