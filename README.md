@@ -118,11 +118,11 @@ ORDER BY highestsellingproduct DESC
 ## Insights: 
  - The graph below highlights the inconstitency in the trend of sales, showing February as the month with the highest sales and September with the lowest sale per product.
 
-![MONTHLY TREND](https://github.com/user-attachments/assets/300c9510-055e-43d8-b399-31192f9d539a)
+
 
  - Based on the analysis, I see an upward trend in sales in the first quarter of both year. However, a pattern of decrease in sales can be identify in the second quarter of both year.
    
-![QUARTERLY SALES](https://github.com/user-attachments/assets/31e092d3-6c09-4925-8fd1-f81811044a6f)
+
 
 
 ### Recommendations
